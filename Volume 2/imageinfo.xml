@@ -1,0 +1,16 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="219" filedate="2018-12-16 14:18:01" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="230" filedate="2018-12-16 14:18:01" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="151" filedate="2018-02-20 22:00:52" width="12px" height="12px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="10775" filedate="2018-06-23 18:57:05" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="46001" filedate="2018-06-23 18:57:05" width="480px" height="720px">
+</image>
+<image path="images/qrcode.png" filesize="268" filedate="2018-12-16 14:18:11" width="148px" height="148px">
+</image>
+<image path="images/titlepage.png" filesize="7874" filedate="2018-12-16 14:18:14" width="437px" height="720px">
+</image>
+</images>

@@ -1,0 +1,22 @@
+
+body {
+    font-family: 'Noto serif', serif;
+}
+
+.storyFinished {
+    text-align: center;
+}
+
+.storyTeller {
+    text-align: right;
+}
+
+.storyLocation {
+    text-align: right;
+}
+
+.storyNotes {
+    font-size: small;
+}
+
+
